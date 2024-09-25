@@ -8,7 +8,7 @@
 2. Stefon Diggs
 3. Caleb Williams
 
-==Other Info==
+Made for ==winning==
 
 
 
