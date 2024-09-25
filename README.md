@@ -9,7 +9,6 @@
 3. Caleb Williams
 
 
-Made for ==winning==.
 
 
 
