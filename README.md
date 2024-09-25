@@ -1,6 +1,7 @@
 # Fantasy Football Perforance Predictor-
-*Description*
-  *Predict player performance in fantasy leagues for NFL*
+
+*Description:*
+*Predict player performance in fantasy leagues for NFL*
 
 **Player Name**
 1. Tyreek Hill
